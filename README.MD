@@ -9,4 +9,4 @@ Calculadora usando HTML , Css y javaScript
 
 
 Previsualizacion:
-![Previsualizacion](/Calculadora/img/PRE.jpg)
+![Previsualizacion](https://github.com/GonzaloHazel/Pcalculadora/blob/main/img/PRE.jpg)
